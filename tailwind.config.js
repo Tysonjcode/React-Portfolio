@@ -21,8 +21,8 @@ module.exports = {
           "linear-gradient(90deg, #24CBFF 14.53%, #FC59FF 69.36%, #FFBD0C 117.73%)",
       }),
       fontFamily: {
-        playfair: ["Playfair Display", "serif"],
-        opensans: ["Open Sans", "sans-serif"],
+        caudex: ["caudex", "serif"],
+        montserrat: ["montserrat", "sans-serif"],
       },
       content: {
         brush: "url('./assets/brush.png')",
