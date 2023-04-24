@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tysonjcode/React-Portfolio/static/css/main.114c2772.css",
+    "main.js": "/Tysonjcode/React-Portfolio/static/js/main.60465579.js",
+    "static/media/person-3.png": "/Tysonjcode/React-Portfolio/static/media/person-3.503cf5124118fc52afae.png",
+    "static/media/person-2.png": "/Tysonjcode/React-Portfolio/static/media/person-2.ff3aa8079d65b50c1c17.png",
+    "static/media/person-1.png": "/Tysonjcode/React-Portfolio/static/media/person-1.16173ea0b70442361269.png",
+    "index.html": "/Tysonjcode/React-Portfolio/index.html",
+    "main.114c2772.css.map": "/Tysonjcode/React-Portfolio/static/css/main.114c2772.css.map",
+    "main.60465579.js.map": "/Tysonjcode/React-Portfolio/static/js/main.60465579.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.114c2772.css",
+    "static/js/main.60465579.js"
+  ]
+}
